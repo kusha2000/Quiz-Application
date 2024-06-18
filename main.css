@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Lato:wght@700&family=Pacifico&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-outer{
+    width:100vw;
+    min-height: 100vh;
+    height: auto;
+    background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=900&t=st=1702743635~exp=1702744235~hmac=e726342e6485565812a1beaea4448a95feb82435edcf259b7c3cfe6587a26ab4");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.inner-wrapper{
+    height:80%;
+    background-color: rgba(255, 255, 255,0.8);
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.top-title-wrapper{
+    width:100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top-title-wrapper h1{
+    text-align: center;
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 0;
+    font-family: 'Pacifico', cursive;
+}
+.controller-wrapper{
+    width:100%;
+    height:50px;
+    /* border:1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.controller-item{
+    height:100%;
+    /* border:1px solid red; */
+    flex:1;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.item-inner:first-child{
+    padding: 0;
+}
+.item-inner{
+    background-color: white;
+    border: 1px solid black;
+    flex:1;
+    height: 100%;
+    border-radius:3px ;
+    display: flex;
+    align-items: center;
+}
+.playground{
+    display: flex;
+    /* border:1px solid red; */
+    flex:1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.button-bar{
+    height:50px;
+    width:100%;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px 20px;
+}
