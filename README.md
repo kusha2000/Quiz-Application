@@ -24,7 +24,12 @@ Features
 <h2>This is the Full Demo of the project</h2><br><br>
 
 
+![Demo](https://github.com/kusha2000/Quiz-Application/assets/127003267/561fc9e1-122b-40aa-985a-d8bd56ccff08)
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
+
+![1](https://github.com/kusha2000/Quiz-Application/assets/127003267/dcd5a18f-de30-449f-b9d4-ac63dbe3d654)<br><br>
+
+![2](https://github.com/kusha2000/Quiz-Application/assets/127003267/0a48a5a2-4267-45c9-8d34-a44264cbfb7c)<br><br>
 
